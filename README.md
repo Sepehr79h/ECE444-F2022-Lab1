@@ -19,3 +19,9 @@ https://github.com/arshinmar/ECE444-F2022-Lab1
 
 ![](Images/Activity4-1.png)
 ![](Images/Activity4-2.png)
+
+**Activity 5**
+
+![](Images/Activity5-1.png)
+
+![](Images/Activity5-2.png)
