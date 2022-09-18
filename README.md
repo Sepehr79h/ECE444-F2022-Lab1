@@ -35,3 +35,9 @@ https://github.com/Sepehr79h/ECE444-F2022-EP
 ![](Images/Activity7-1.png)
 
 ![](Images/Activity7-2.png)
+
+**Activity 8**
+
+![](Images/Activity8-1.png)
+
+![](Images/Activity8-2.png)
